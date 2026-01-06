@@ -2,6 +2,7 @@
 Deforestation dynamics in Indigenous Territories of the Brazilian Amazon
 
 ### A remote sensing analysis of vegetation loss and moisture changes in Cachoeira Seca (Pará, Brazil)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DQDdrp6nLvDcxv2eqUbMBE-MIJAFWT3z)
 
 ## Background
 
