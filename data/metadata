@@ -1,0 +1,8 @@
+### Georeferenced Data
+
+The georeferenced files for the Cachoeira Seca study area in the Amazon are available in this repository.  
+
+- **Original KMZ file**: [cachoeira_seca_georeferenced.kmz](data/cachoeira_seca_georeferenced.kmz)  
+- **Prepared GeoJSON for Colab**: [cachoeira_seca_georeferenced.geojson](data/cachoeira_seca_georeferenced.geojson)  
+
+These files can be used to visualize the study area in **Google Earth Pro** or directly in **Google Colab** for analysis.
