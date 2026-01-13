@@ -2,7 +2,11 @@
 Visualizing and analyzing two decades of forest loss, pasture expansion, and hydration changes in Cachoeira Seca, Pará, Brazil.
 
 
-## 📘 Project Notebooks
+## 📘 Project Documentation
+This repository contains the data and notebooks used for the analysis of deforestation and vegetation hydration in the Cachoeira Seca Indigenous Territory.
+
+- **Data folder (`data/`)**: Contains georeferenced files of the territory in **KMZ** and **GeoJSON** formats, exported from Google Earth Pro. These provide the spatial context for all analyses.  
+- **Documentation folder (`docs/`)**: Contains interactive HTML visualizations linked from the **Visualization & Interpretation Notebook**, originally developed with Geemap and ipyleaflet. These HTML files allow the interactive maps to be viewed in GitHub Pages, which does not directly render ipyleaflet widgets.
 
 This repository contains two complementary Jupyter notebooks that address different stages of the analysis workflow.
 
